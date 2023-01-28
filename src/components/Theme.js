@@ -5,7 +5,7 @@ export default function Theme() {
   return (
     <div id="theme">
       <label className="switch">
-        <input
+        <input aria-label="theme-changer"
           type="checkbox"
           onChange={() => {
             document.body.classList.toggle("dark");
