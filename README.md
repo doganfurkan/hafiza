@@ -4,8 +4,8 @@
 [See It Here](https://hafiza.netlify.app)
 
 ## Preview
-![img](./public/ss1.png)
-![img](./public/ss2.png)
+![img](./public/ss1.png) ![img](./public/ss2.png)
+![img](./public/ss3.png) ![img](./public/ss4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
