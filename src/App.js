@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Grid from "./components/Grid";
+import Newgame from "./components/Newgame";
+import Theme from "./components/Theme";
+import { useSelector } from "react-redux";
+import Footer from "./components/Footer";
 
 function App() {
+  const bitti = useSelector(item => item.memory.bitti)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Theme />
+      <Grid />
+      {bitti && <Newgame/> }
+      <Footer/>
     </div>
   );
 }
