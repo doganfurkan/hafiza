@@ -1,122 +1,152 @@
 [
   {
     "name": "Turkey",
-    "id":1
+    "id":1,
+    "short":"TR"
   },
   {
     "name": "Turkey",
-    "id":2
+    "id":2,
+    "short":"TR"
   },
   {
     "name": "Tunisia",
-    "id":3
+    "id":3,
+    "short":"TN"
   },
   {
     "name": "Tunisia",
-    "id":4
+    "id":4,
+    "short":"TN"
   },
   {
     "name": "China",
-    "id":5
+    "id":5,
+    "short":"CN"
   },
   {
     "name": "China",
-    "id":6
+    "id":6,
+    "short":"CN"
   },
   {
     "name": "Italy",
-    "id":7
+    "id":7,
+    "short":"IT"
   },
   {
     "name": "Italy",
-    "id":8
+    "id":8,
+    "short":"IT"
   },
   {
     "name": "France",
-    "id":9
+    "id":9,
+    "short":"FR"
   },
   {
     "name": "France",
-    "id":10
+    "id":10,
+    "short":"FR"
   },
   {
     "name": "Mexico",
-    "id":11
+    "id":11,
+    "short":"MX"
   },
   {
     "name": "Mexico",
-    "id":12
+    "id":12,
+    "short":"MX"
   },
   {
     "name": "Peru",
-    "id":13
+    "id":13,
+    "short":"PE"
   },
   {
     "name": "Peru",
-    "id":14
+    "id":14,
+    "short":"PE"
   },
   {
     "name": "Zambia",
-    "id":15
+    "id":15,
+    "short":"ZM"
   },
   {
     "name": "Zambia",
-    "id":16
+    "id":16,
+    "short":"ZM"
   },
   {
     "name": "Saudi Arabia",
-    "id":17
+    "id":17,
+    "short":"SA"
   },
   {
     "name": "Saudi Arabia",
-    "id":18
+    "id":18,
+    "short":"SA"
   },
   {
     "name": "Netherlands",
-    "id":19
+    "id":19,
+    "short":"NL"
   },
   {
     "name": "Netherlands",
-    "id":20
+    "id":20,
+    "short":"NL"
   },
   {
     "name": "Russian Federation",
-    "id":21
+    "id":21,
+    "short":"RU"
   },
   {
     "name": "Russian Federation",
-    "id":22
+    "id":22,
+    "short":"RU"
   },
   {
     "name": "Germany",
-    "id":23
+    "id":23,
+    "short":"DE"
   },
   {
     "name": "Germany",
-    "id":24
+    "id":24,
+    "short":"DE"
   },
   {
     "name": "Belgium",
-    "id":25
+    "id":25,
+    "short":"BE"
   },
   {
     "name": "Belgium",
-    "id":26
+    "id":26,
+    "short":"BE"
   },
   {
     "name": "Iceland",
-    "id":27
+    "id":27,
+    "short":"IS"
   },
   {
     "name": "Iceland",
-    "id":28
+    "id":28,
+    "short":"IS"
   },
   {
     "name": "Norway",
-    "id":29
+    "id":29,
+    "short":"NO"
   },
   {
     "name": "Norway",
-    "id":30
+    "id":30,
+    "short":"NO"
   }
 ]

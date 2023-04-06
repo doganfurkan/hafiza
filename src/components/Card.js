@@ -44,7 +44,7 @@ export default function Card({ item }) {
       <div className="back">
         <img
           crossOrigin="anonymous"
-          src={`https://countryflagsapi.com/png/${item.name}`}
+          src={`./assets/${item.short}.svg`}
           alt="game"
         />
       </div>
